@@ -1,5 +1,5 @@
 # Final-project-IT-Factory-Manual-Testing-Course
-The aim of this project is to use and apply all the knowledge, gained through the course, based on using a live application.
+The aim of this project is to use and apply all the knowledge gained through the course based on using a live application.
 
 Application under test: *[OrangeHRM](https://opensource-demo.orangehrmlive.com/)*
 
