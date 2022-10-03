@@ -9,6 +9,8 @@ Tools used: JIRA, Zephyr Squad, Postman, MySQL Workbench.
 
 The final project will be split into 2 sections: Testing section and SQL section.
 
+In order to see the more detailed explanations please access the PDF files mentioned at each chapter.
+
 # Requirements 
 The test cases were made based upon business requirements specifications.
 
